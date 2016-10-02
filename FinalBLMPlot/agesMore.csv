@@ -1,0 +1,198 @@
+uid,name,age,gender,raceethnicity,month,day,year,streetaddress,city,state,classification,lawenforcementagency,armed
+20162,Germonta Wallace,30,Male,Black,January,3,2016,2600 Watson Dr,Charlotte,NC,Gunshot,Charlotte-Mecklenburg Police Department,Firearm
+20164,Rodney Turner,22,Male,Black,January,4,2016,3600 NW 42nd St,Oklahoma City,OK,Gunshot,Oklahoma City Police Department,Firearm
+20165,Eric Senegal,27,Male,Black,January,4,2016,Gene Stanley Rd,Ragley,LA,Gunshot,Beauregard Parish Sheriff's Office,Unknown
+201630,Henry Bennett,19,Male,Black,January,16,2016,SW Ave D and SW 9th St,Belle Glade,FL,Gunshot,Palm Beach County Sheriff's Office,Firearm
+201635,Crayton West,52,Male,Black,January,17,2016,3517 S Grand Blvd,St Louis,MO,Gunshot,St Louis Metropolitan Police Department,Firearm
+201649,Timothy Albert,40,Male,Black,January,20,2016,Louisiana Hwy 741,Port Barre,LA,Gunshot,St Landry Parish Sheriff's Office,Firearm
+201651,Rakeem Bentley,24,Male,Black,January,15,2016,27033 Northwestern Hwy,Southfield,MI,Gunshot,"Michigan State Police, FBI",Firearm
+201652,Cedric Norris,39,Male,Black,January,21,2016,US-69,Eufaula,OK,Gunshot,"Eufaula Police Department, McIntosh County Sheriff's Office, Oklahoma Highway Patrol",Firearm
+201661,Janet Wilson,31,Female,Black,January,27,2016,Hubbard Dr,Dearborn,MI,Gunshot,Dearborn Police Department,Vehicle
+201662,Johnathan Bratcher,32,Male,Black,January,27,2016,800 South Parkway E,Memphis,TN,Gunshot,Memphis Police Department,Firearm
+201671,Randolph McClain,33,Male,Black,January,29,2016,Western Ave and Nichols Ave,Lynn,MA,Gunshot,Lynn Police Department,Firearm
+201672,Christopher Dew,29,Male,Black,January,29,2016,Texas Hwy 183,Irving,TX,Gunshot,Irving Police Department,Firearm
+201676,Bruce Kelley Jr,37,Male,Black,January,31,2016,Whitney Ave,Pittsburgh,PA,Gunshot,Port Authority Police Department,Knife
+201677,Charles Smith,29,Male,Black,January,31,2016,7300 S Paulina St,Chicago,IL,Gunshot,Chicago Police Department,Firearm
+201678,Peter John,36,Male,Black,February,1,2016,5300 Clay Terrace NE,Washington,DC,Gunshot,Washington Metropolitan Police Department,Non-lethal firearm
+201689,Antronie Scott,36,Male,Black,February,4,2016,10362 Sahara Street,San Antonio,TX,Gunshot,San Antonio Police Department,No
+2016101,Marese Collins,23,Male,Black,February,7,2016,500 Whitethorne Ave,Columbus,OH,Gunshot,Columbus Division of Police,Firearm
+2016102,Shalamar Longer,33,Male,Black,February,8,2016,1200 Keystone Rd,Chester,PA,Gunshot,Chester Police Department,Firearm
+2016103,David Joseph,17,Male,Black,February,8,2016,300 E Yager Ln,Austin,TX,Gunshot,Austin Police Department,No
+2016105,Eric Harris,22,Male,Black,February,8,2016,Simon Bolivar Ave and Philip St,New Orleans,LA,Gunshot,Jefferson Parish Sheriff's Office,Vehicle
+2016115,Mohamed Barry,30,Male,Black,February,11,2016,Stelzer Rd,Columbus,OH,Gunshot,Columbus Division of Police,Other
+2016117,Peter Fanfan,29,Male,Black,February,12,2016,Stanwood St and Laredo St,Boston,MA,Gunshot,Boston Police Department,Firearm
+2016118,Sahlah Ridgeway,32,Female,Black,February,12,2016,1313 Butternut St,Syracuse,NY,Gunshot,Syracuse Police Department,Firearm
+2016121,Calin Roquemore,24,Male,Black,February,13,2016,Texas Hwy 149,Beckville,TX,Gunshot,Texas Department of Public Safety,No
+2016122,Calvin Smith,22,Male,Black,February,13,2016,Fairfields Ave,Baton Rouge,LA,Gunshot,Baton Rouge Police Department,Firearm
+2016123,Dyzhawn Perkins,19,Male,Black,February,13,2016,800 Penlan Rd,Arvonia,VA,Gunshot,Buckingham County Sheriff's Department,No
+2016124,Ali Yahia,29,Male,Black,February,13,2016,4800 Merle Hay Rd,Urbandale,IA,Gunshot,Urbandale Police Department,Firearm
+2016136,Paul Gaston,37,Male,Black,February,17,2016,3300 Harrison Ave,Cheviot,OH,Gunshot,Cincinnati Police Department,Non-lethal firearm
+2016146,Kisha Michael,31,Female,Black,February,21,2016,W Manchester Blvd and Inglewood Ave,Inglewood,CA,Gunshot,Inglewood Police Department,Firearm
+2016147,Marquintan Sandlin,32,Male,Black,February,21,2016,W Manchester Blvd and Inglewood Ave,Inglewood,CA,Gunshot,Inglewood Police Department,Unknown
+2016148,Che Taylor,47,Male,Black,February,21,2016,2100 NE 85th St,Seattle,WA,Gunshot,Seattle Police Department,Firearm
+2016159,Travis Stevenson,48,Male,Black,February,23,2016,Terrace Ave,Baton Rouge,LA,Gunshot,East Baton Rouge Parish Sheriff's Office,Vehicle
+2016165,Greg Gunn,56,Male,Black,February,25,2016,3200 McElvy St,Montgomery,AL,Gunshot,Montgomery Police Department,Disputed
+2016167,Cedric Ford,38,Male,Black,February,25,2016,200 S Ridge Rd,Hesston,KS,Gunshot,Hesston Police Department,Firearm
+2016169,Kionte Spencer,18,Male,Black,February,26,2016,4049 Brambleton Ave,Roanoke,VA,Gunshot,Roanoke County Police Department,Non-lethal firearm
+2016173,Akiel Denkins,24,Male,Black,February,29,2016,Bragg St,Raleigh,NC,Gunshot,Raleigh Police Department,Firearm
+2016179,Christopher Kalonji,19,Male,Black,January,28,2016,3700 SE Concord Rd,Oak Grove,OR,Gunshot,Clackamas County Sheriff's Office,Firearm
+2016197,Arteair Porter Jr,22,Male,Black,March,10,2016,Lemmon Dr,Reno,NV,Gunshot,"Reno Police Department, Sparks Police Department, Washoe County Sheriff's Office",Non-lethal firearm
+2016201,Tyre Privott,25,Male,Black,March,11,2016,Chesapeake Blvd and Fishermans Rd,Norfolk,VA,Gunshot,Norfolk Police Department,Firearm
+2016204,Peter Gaines,35,Male,Black,March,12,2016,Eastex Freeway Service Rd and Collingsworth St,Houston,TX,Gunshot,Houston Police Department,No
+2016205,Keith Montgomery Jr,24,Male,Black,March,12,2016,Parker St and Union St,Chester,PA,Gunshot,Chester Police Department,Firearm
+2016207,Marco Loud,20,Male,Black,March,12,2016,3833 Cypress Creek Pkwy,Houston,TX,Gunshot,Harris County Sheriff's Office,No
+2016213,Jacai Colson,28,Male,Black,March,13,2016,7600 Barlowe Rd,Landover,MD,Gunshot,Prince George's County Police Department,Firearm
+2016214,Lamar Harris,29,Male,Black,March,14,2016,3700 W Polk St,Chicago,IL,Gunshot,Chicago Police Department,Firearm
+2016224,Carlton Murphy Jr,33,Male,Black,January,5,2016,3117 Tacoma St,Charlotte,NC,Gunshot,Charlotte-Mecklenburg Police Department,Firearm
+2016225,Scott Bennett,29,Male,Black,March,17,2016,11314 North Freeway,Houston,TX,Gunshot,Houston Police Department,Unknown
+2016226,Christopher Nelms,30,Male,Black,March,17,2016,11314 North Freeway,Houston,TX,Gunshot,Houston Police Department,Unknown
+2016229,India Beaty,25,Female,Black,March,19,2016,9500 Shore Dr,Norfolk,VA,Gunshot,Norfolk Police Department,Non-lethal firearm
+2016230,Thurman Reynolds,21,Male,Black,March,19,2016,300 Neola St,Park Forest,IL,Gunshot,Park Forest Police Department,Firearm
+2016235,Robert Dentmond,16,Male,Black,March,20,2016,5800 SW 20th Ave,Gainesville,FL,Gunshot,"Alachua County Sheriff's Office, Gainesville Police Department",Non-lethal firearm
+2016243,Alexio Allen,30,Male,Black,March,23,2016,3400 Dillard Rd,Memphis,TN,Gunshot,Memphis Police Department,Firearm
+2016248,Dominique Silva,24,Male,Black,March,24,2016,Webster St,Pawtucket,RI,Gunshot,Pawtucket Police Department,Non-lethal firearm
+2016249,Jermon Seals,22,Male,Black,March,24,2016,1701 Nw State Route 7,Blue Springs,MO,Gunshot,US Marshals,Firearm
+2016256,Deriante Miller,18,Male,Black,March,27,2016,2644 Crepe Myrtle St,Kinston,NC,Gunshot,North Carolina State Highway Patrol,Firearm
+2016264,James Brown III,34,Male,Black,March,31,2016,2910 N Boulevard,Richmond,VA,Gunshot,Virginia State Police,Firearm
+2016265,Matthew Wood Jr,43,Male,Black,March,31,2016,400 E Lanvale St,Baltimore,MD,Gunshot,Baltimore Police Department,Firearm
+2016266,Kimani Johnson,18,Male,Black,March,31,2016,400 E Lanvale St,Baltimore,MD,Gunshot,Baltimore Police Department,Firearm
+2016269,Cameron Glover,30,Male,Black,April,2,2016,4645 W 38th St,Indianapolis,IN,Gunshot,Indianapolis Metropolitan Police Department,Firearm
+2016274,Kevin Hicks,44,Male,Black,April,5,2016,1001 N Rural St,Indianapolis,IN,Gunshot,Indianapolis Metropolitan Police Department,No
+2016278,Laronda Sweatt,40,Female,Black,April,6,2016,287 Chaffin Ct,Gallatin,TN,Gunshot,Sumner County Sheriff's Office,Other
+2016283,Dazion 'Jerome' Flenaugh,40,Male,Black,April,8,2016,7600 Prescott Way,Sacramento,CA,Gunshot,Sacramento Police Department,Knife
+2016284,Lamont Gulley,43,Male,Black,April,8,2016,Breton Rd SE and Edington Dr SE,Kentwood,MI,Gunshot,Kentwood Police Department,Knife
+2016286,Diahlo Grant,27,Male,Black,April,9,2016,Somerset St,New Brunswick,NJ,Gunshot,Franklin Township Police Department,Firearm
+2016289,Quron Williams,19,Male,Black,April,9,2016,5700 N Park Ave,Philadelphia,PA,Gunshot,Philadelphia Police Department,Firearm
+2016291,Pierre Loury,16,Male,Black,April,11,2016,3400 W Grenshaw St,Chicago,IL,Gunshot,Chicago Police Department,Firearm
+2016295,Rodney Watts,35,Male,Black,April,13,2016,Knickerbocker Dr,Stockton,CA,Gunshot,Stockton Police Department,Unknown
+2016305,Kisha Arrone,35,Female,Black,April,17,2016,3100 Wexford Pl,Dayton,OH,Gunshot,Dayton Police Department,Firearm
+2016306,George Tillman,32,Male,Black,April,17,2016,116th Ave and 135th St,South Ozone Park,NY,Gunshot,New York Police Department,Firearm
+2016307,Richard Bard Jr,31,Male,Black,April,17,2016,S East Ave and Almond St,Vineland,NJ,Gunshot,Vineland Police Department,Firearm
+2016308,Edson Thevenin,38,Male,Black,April,17,2016,6th Ave,Troy,NY,Gunshot,Troy Police Department,Vehicle
+2016310,Jorevis Scruggs,15,Male,Black,April,19,2016,3200 St Louis Ave,St Louis,MO,Gunshot,St Louis Metropolitan Police Department,Firearm
+2016312,Rico Johnson,28,Male,Black,April,18,2016,6200 Springhill Ct,Greenbelt,MD,Gunshot,Greenbelt Police Department,Firearm
+2016313,Demetrius Dorsey,18,Male,Black,April,18,2016,6400 Mableton Pkwy SW,Mableton,GA,Gunshot,Cobb County Police Department,Firearm
+2016314,Robert Howard,44,Male,Black,April,15,2016,1400 W Baltimore St,Baltimore,MD,Gunshot,Baltimore Police Department,Non-lethal firearm
+2016324,Demarcus Semer,21,Male,Black,April,23,2016,Ave G and N 19th St,Fort Pierce,FL,Gunshot,Fort Pierce Police Department,No
+2016329,Joshua Brooks,26,Male,Black,April,26,2016,1300 Hawthorne Dr,Chesapeake,VA,Gunshot,Chesapeake Police Department,Firearm
+2016335,Ashtian Barnes,25,Male,Black,April,28,2016,Beltway 8,Houston,TX,Gunshot,Harris County Constable Precinct 5,No
+2016342,Charlin Charles,25,Male,Black,May,1,2016,Orange Blossom Trail and Carter St,Orlando,FL,Gunshot,Orlando Police Department,Non-lethal firearm
+2016346,Christopher Davis,21,Male,Black,February,24,2016,N8416 County Rd ES,East Troy,WI,Gunshot,Walworth County Sheriff's Office,No
+2016348,Jerand Ross,24,Male,Black,February,11,2016,6603 Church St,Riverdale,GA,Gunshot,Clayton County Police Department,Firearm
+2016355,Deresha Armstrong,26,Female,Black,May,5,2016,West Colonial Dr,Orlando,FL,Gunshot,Orange County Sheriff's Office,Firearm
+2016356,Burt Johnson,38,Male,Black,May,5,2016,N 76th St and W Mill Road,Milwaukee,WI,Gunshot,Milwaukee Police Department,Firearm
+2016358,Ronald Williams Jr,23,Male,Black,May,6,2016,119 Marie Ave,Weirton,WV,Gunshot,Weirton Police Department,Firearm
+2016359,Alton Witchard,37,Male,Black,May,7,2016,22nd St S and 21st Ave S,St Petersburg,FL,Gunshot,Pinellas County Sheriff's Office,Firearm
+2016361,Lionel Gibson,21,Male,Black,May,7,2016,Locust Ave and E 21st St,Long Beach,CA,Gunshot,Long Beach Police Department,Non-lethal firearm
+2016362,Jaffort Smith,33,Male,Black,May,9,2016,Acker St E and Buffalo St,St Paul,MN,Gunshot,Saint Paul Police Department,Firearm
+2016365,Willie Tillman,33,Male,Black,April,23,2016,E Sunbridge Dr,Fayetteville,AR,Gunshot,Fayetteville Police Department,No
+2016367,Arthur Williams Jr,33,Male,Black,May,9,2016,10929 Dizzy Dean Pl,El Paso,TX,Gunshot,El Paso Police Department,Non-lethal firearm
+2016370,Arthur DaRosa,28,Male,Black,May,10,2016,2 Galleria Mall Dr #247,Taunton,MA,Gunshot,Plymouth County Sheriff's Department,Knife
+2016371,Sean Mondragon,24,Male,Black,May,11,2016,US-85 and 31st St,Evans,CO,Gunshot,Greeley Police Department,Firearm
+2016377,James Simpson,31,Male,Black,March,31,2016,9898 N Fast Elk St,Las Vegas,NV,Gunshot,Las Vegas Metropolitan Police Department,Firearm
+2016381,Jabril Robinson,23,Male,Black,May,16,2016,1500 Cheryl Leigh Dr,Riverdale,GA,Gunshot,Clayton County Police Department,Firearm
+2016388,Jessica Williams,29,Female,Black,May,19,2016,Shafter Ave and Elmira St,San Francisco,CA,Gunshot,San Francisco Police Department,No
+2016390,Kentrill Carraway,22,Male,Black,May,19,2016,NW 20th Ave and NW 76th St,Miami,FL,Gunshot,Miami-Dade Police Department,Firearm
+2016392,Reginald Dogan,53,Male,Black,May,2,2016,Wade Hampton Blvd,Taylors,SC,Gunshot,Greenville County Sheriff's Office,Firearm
+2016393,Joshua Beebee,31,Male,Black,May,20,2016,W Maple Rd and N 165th St,Omaha,NE,Gunshot,Omaha Police Department,Knife
+2016397,Michael Wilson Jr,27,Male,Black,May,22,2016,137 Golden Isles Dr,Hallandale Beach,FL,Gunshot,Hallandale Beach Police Department,No
+2016401,Vernell Bing Jr,22,Male,Black,May,22,2016,E 9th St,Jacksonville,FL,Gunshot,Jacksonville Sheriff's Office,No
+2016406,Terry Frost,20,Male,Black,May,25,2016,2692 Madison Rd,Cincinnati,OH,Gunshot,Cincinnati Police Department,Firearm
+2016410,Devonte Gates,21,Male,Black,May,26,2016,Eastgate St,East St Louis,IL,Gunshot,"United States Marshals Service, Caseyville Police Department",No
+2016418,Osee Calix,33,Male,Black,May,30,2016,N Columbus Blvd and E Fairmount St,Tucson,AZ,Gunshot,Tucson Police Department,Firearm
+2016420,Dennis Hudson,50,Male,Black,May,28,2016,53410 Old US Hwy 78,Eastaboga,AL,Gunshot,Lincoln Police Department,Unknown
+2016423,Doll Pierre-Louis,24,Male,Black,May,25,2016,NW 167th St and NW 37th Ave,Miami Gardens,FL,Gunshot,Florida Highway Patrol,No
+2016429,Randy Nelson,49,Male,Black,February,3,2016,700 Market St W,Athens,AL,Death in custody,Athens Police Department,No
+2016433,Darius Robinson,41,Male,Black,April,4,2016,201 W Oklahoma Ave,Anadarko,OK,Death in custody,Caddo County Sheriff’s Office,No
+2016436,Wendell Celestine Jr,37,Male,Black,February,5,2016,Biglow Dr and Gary Ave,Antioch,CA,Death in custody,Antioch Police Department,No
+2016438,Torrey Robinson,35,Male,Black,March,19,2016,9226 Dresden Ln,Port Richey,FL,Taser,Pasco County Sheriff's Office,No
+2016442,Michael Johnson,21,Male,Black,June,1,2016,2 Amlajack Blvd,Newnan,GA,Gunshot,Coweta County Sheriff’s Office,Firearm
+2016443,Ollie Brooks,64,Male,Black,May,28,2016,1011 S Garnett Rd,Tulsa,OK,Death in custody,Tulsa Police Department,No
+2016446,Willie 'Meek' James,43,Male,Black,June,2,2016,400 Chapel St,Norfolk,VA,Gunshot,Norfolk Police Department,Disputed
+2016447,Rodney Smith,18,Male,Black,June,2,2016,7800 N Tryon St,Charlotte,NC,Gunshot,Charlotte-Mecklenburg Police Department,Firearm
+2016453,Demarco Rhymes,35,Male,Black,June,4,2016,Stephenson St,Eufaula,AL,Gunshot,Eufaula Police Department,Firearm
+2016456,Henry Green,23,Male,Black,June,6,2016,Ontario St and Duxberry Ave,Columbus,OH,Gunshot,Columbus Division of Police,Firearm
+2016459,Willis Walker Jr,49,Male,Black,June,7,2016,Gray St,Culpeper,VA,Gunshot,Culpeper County Sheriff's Office,Firearm
+2016472,John Brisco,52,Male,Black,June,9,2016,3700 Hwy 365,Port Arthur,TX,Gunshot,Port Arthur Police Department,Unknown
+2016480,Lyndarius Witherspoon,27,Male,Black,June,11,2016,320 Monument Dr,Tupelo,MS,Gunshot,Tupelo Police Department,Firearm
+2016481,John Williams,61,Male,Black,June,12,2016,6958 Coral Hill Rd,Glasgow,KY,Gunshot,Barren County Sheriff's Department,Firearm
+2016483,Michael Moore,18,Male,Black,June,13,2016,Stanton Rd and Wagner St,Mobile,AL,Gunshot,Mobile Police Department,Firearm
+2016500,Antwun Shumpert,37,Male,Black,June,18,2016,900 Harrison St,Tupelo,MS,Gunshot,Tupelo Police Department,No
+2016501,Rashaun Lloyd,25,Male,Black,June,19,2016,725 Randall Ave,Bronx,NY,Gunshot,New York Police Department,Firearm
+2016503,Clarence Howard,25,Male,Black,June,19,2016,Emerson Dr NW and St Johns Heritage Pkwy,Palm Bay,FL,Gunshot,Brevard County Sheriff's Office,No
+2016504,Raufeal Bostick,23,Male,Black,June,20,2016,20751 Whyte Hardee Blvd,Hardeeville,SC,Gunshot,"Jasper County Sheriff's Office, Hardeeville Police",Firearm
+2016509,Isaiah Core III,20,Male,Black,June,22,2016,Oporto Madrid Blvd and Sunrise Dr,Birmingham,AL,Gunshot,Shelby County Sheriff's Office,Vehicle
+2016512,Deravis 'Caine' Rogers,22,Male,Black,June,23,2016,2100 Monroe Dr NE,Atlanta,GA,Gunshot,Atlanta Police Department,No
+2016513,Jay Anderson,25,Male,Black,June,23,2016,9800 W Glendale Ave,Wauwatosa,WI,Gunshot,Wauwatosa Police Department,Firearm
+2016514,Quencezola Splunge,44,Male,Black,June,22,2016,6851 Highway 301,Walls,MS,Gunshot,DeSoto County Sheriff's Office,Firearm
+2016515,Antonio Richardson,46,Male,Black,June,22,2016,500 W Alma Ave,Flint,MI,Taser,"Flint Police Department, Michigan State Police",Knife
+2016517,Angelo Brown,35,Male,Black,June,23,2016,Pheasantwood Dr,Belleville,IL,Gunshot,Belleville Police Department,Firearm
+2016518,Ismael Miranda,36,Male,Black,June,24,2016,Summer St and Oak St,Paterson,NJ,Gunshot,Paterson Police Department,Firearm
+2016526,Donte Johnson,30,Male,Black,June,26,2016,1445 E Sibley Blvd,Dolton,IL,Gunshot,Dolton Police Department,Firearm
+2016527,Germichael Kennedy,22,Male,Black,June,26,2016,N 14th St,Lincoln,NE,Gunshot,Lincoln Police Department,Firearm
+2016534,Sherman Evans,63,Male,Black,June,27,2016,100 Varnum St NE,Washington,DC,Gunshot,Washington Metropolitan Police Department,Non-lethal firearm
+2016539,Tyrone Reado,50,Male,Black,June,29,2016,Luther Dr,Monroe,LA,Gunshot,Ouachita Parish Sheriff's Office,Unknown
+2016541,Kawme Patrick,25,Male,Black,June,30,2016,1100 Lockhurst Rd,Columbus,OH,Gunshot,Columbus Division of Police,Firearm
+2016548,Jai Williams,35,Male,Black,July,2,2016,275 Deaverview Rd,Asheville,NC,Gunshot,Asheville Police Department,Firearm
+2016549,Lafayette Evans,37,Male,Black,June,29,2016,1206 48th St,Fort Madison,IA,Gunshot,Fort Madison Police Department,Firearm
+2016550,Keith Bursey,31,Male,Black,June,10,2016,Slauson Ave and Brynhurst Ave,Los Angeles,CA,Gunshot,Los Angeles Police Department,Firearm
+2016560,Delrawn Small,37,Male,Black,July,4,2016,Atlantic Ave,Brooklyn,NY,Gunshot,New York Police Department,No
+2016561,Unknown,29,Male,Black,July,4,2016,12531 Texas Hwy 34,Scurry,TX,Gunshot,Kaufman County Sheriff's Office,Unknown
+2016562,Sidney Washington Jr,21,Male,Black,July,4,2016,4900 Quarles St NE,Washington,DC,Gunshot,Metro Transit Police Department,Firearm
+2016563,Alton Sterling,37,Male,Black,July,5,2016,2112 N Foster Dr,Baton Rouge,LA,Gunshot,Baton Rouge Police Department,Disputed
+2016566,Philando Castile,32,Male,Black,July,6,2016,Larpenteur Ave W and St Mary's St,Falcon Heights,MN,Gunshot,St Anthony Police Department,Disputed
+2016573,Micah Johnson,25,Male,Black,July,7,2016,Main St,Dallas,TX,Other,Dallas Police Department,Firearm
+2016574,Earnest Fells,62,Male,Black,July,7,2016,700 King St,Selma,AL,Gunshot,Selma Police Department,Firearm
+2016575,Alva Braziel,38,Male,Black,July,9,2016,Cullen Blvd,Houston,TX,Gunshot,Houston Police Department,Firearm
+2016577,Andre Johnson,40,Male,Black,July,9,2016,E 10th St and Norris Dr,Broken Bow,OK,Gunshot,"Broken Bow Police Department, McCurtain County Sheriff’s Office, Choctaw Nation Tribal Police Department",Firearm
+2016578,Tyler Gebhard,20,Male,Black,July,9,2016,,Lakeshire,MO,Gunshot,St Louis County Police Department,Unknown
+2016579,Joseph Mann,51,Male,Black,July,11,2016,Del Paso Blvd,Sacramento,CA,Gunshot,Sacramento Police Department,Knife
+2016580,Orville Edwards,39,Male,Black,July,11,2016,78th St,Brooklyn,NY,Gunshot,New York Police Department,Firearm
+2016581,Jason Brooks,41,Male,Black,July,11,2016,Gaty Ave and N 16th St,East St Louis,IL,Gunshot,"Washington Park Police Department, East St Louis Police Department",Firearm
+2016586,Gary Porter,41,Male,Black,June,19,2016,Gifford St,Syracuse,NY,Gunshot,Syracuse Police Department,Firearm
+2016592,Dayten Harper,33,Male,Black,July,14,2016,2300 Winchester St,Baltimore,MD,Gunshot,Baltimore Police Department,Firearm
+2016599,Gavin Long,29,Male,Black,July,17,2016,Airline Hwy,Baton Rouge,LA,Gunshot,Unknown,Firearm
+2016606,Derek Love,50,Male,Black,July,21,2016,S Calumet Ave and E 18th St,Chicago,IL,Gunshot,Chicago Police Department,Firearm
+2016608,Austin Howard,49,Male,Black,July,23,2016,2500 N 5th St,Milwaukee,WI,Gunshot,Milwaukee Police Department,Knife
+2016609,Bernard Wells III,31,Male,Black,July,23,2016,12100 Central Ave,Chino,CA,Gunshot,Chino Police Department,Firearm
+2016614,Jeffrey Tyson,33,Male,Black,July,25,2016,2700 Newton Ave,Indianapolis,IN,Gunshot,Indianapolis Metropolitan Police Department,Firearm
+2016615,Richard Risher Jr,18,Male,Black,July,25,2016,E 111th Pl and Antwerp St,Los Angeles,CA,Gunshot,Los Angeles Police Department,Firearm
+2016618,Devon Martes,17,Male,Black,July,27,2016,4013 N Interstate 10 Service Rd W,Metairie,LA,Gunshot,Jefferson Parish Sheriff's Office,Firearm
+2016619,Dalvin Hollins,19,Male,Black,July,27,2016,S Rural Rd and E Westchester Dr,Tempe,AZ,Gunshot,Tempe Police Department,No
+2016626,Paul O'Neal,18,Male,Black,July,28,2016,7400 S Merrill Ave,Chicago,IL,Gunshot,Chicago Police Department,No
+2016628,Donnell Thompson Jr,27,Male,Black,July,28,2016,800 W Stockwell St,Compton,CA,Gunshot,Los Angeles County Sheriff's Department,No
+2016630,Jeffrey Smith,47,Male,Black,July,28,2016,Jefferson St,La Quinta,CA,Gunshot,Unknown,Unknown
+2016638,Korryn Gaines,23,Female,Black,August,1,2016,Sulky Ct,Randallstown,MD,Gunshot,Baltimore County Police Department,Firearm
+2016643,Demarco Newman,43,Male,Black,August,2,2016,Lockheed St,Palm Bay,FL,Gunshot,Palm Bay Police Department,Firearm
+2016649,Jamarion Robinson,26,Male,Black,August,5,2016,4000 Seven Oaks Ln SW,East Point,GA,Gunshot,United States Marshals Service,Firearm
+2016651,Jawari Porter,25,Male,Black,August,7,2016,500 Main Street,Cincinnati,OH,Gunshot,Cincinnati Police Department,Knife
+2016652,Earl 'Shaleek' Pinckney,20,Male,Black,August,7,2016,2300 Green St,Harrisburg,PA,Gunshot,Harrisburg Police Department,Knife
+2016653,Darnell Wicker,57,Male,Black,August,8,2016,Broadleaf Dr,Louisville,KY,Gunshot,Louisville Metro Police Department,Knife
+2016668,Sylville Smith,23,Male,Black,August,13,2016,W Auer Ave and N 44th St,Milwaukee,WI,Gunshot,Milwaukee Police Department,Firearm
+2016671,Fred Barlow,61,Male,Black,August,9,2016,500 Union Avenue,Fairfield,CA,Death in custody,"Fairfield Police Department, Solano County Sheriff's Office",No
+2016677,Kenney Watkins,18,Male,Black,August,16,2016,W Century Blvd,Los Angeles,CA,Gunshot,Los Angeles Police Department,Unknown
+2016678,Colby Friday,30,Male,Black,August,16,2016,Jamestown St and Sousa St,Stockton,CA,Gunshot,Stockton Police Department,Firearm
+2016681,Omer Ismail Ali,27,Male,Black,August,17,2016,103 W Main St,Kelso,WA,Gunshot,Kelso Police Department,Other
+2016696,Brandon Coles,25,Male,Black,August,21,2016,15700 Allen Dr,Dinwiddie,VA,Gunshot,Dinwiddie County Sheriff's Office,Unknown
+2016701,Kelley Forte,34,Male,Black,August,22,2016,1090 High St,Hamilton,OH,Gunshot,Hamilton Police Department,Knife
+2016708,Donta Taylor,31,Male,Black,August,25,2016,W Arbutus St and N Kemp Ave,Compton,CA,Gunshot,Los Angeles County Sheriff's Department,Unknown
+2016716,Jaqwan Terry,24,Male,Black,August,29,2016,311 Donald Ross Dr,Raleigh,NC,Gunshot,Raleigh Police Department,Firearm
+2016718,Alfred Toe,34,Male,Black,August,27,2016,Roosevelt St,Trenton,NJ,Gunshot,Trenton Police Department,No
+2016722,Levonia Riggins,22,Male,Black,August,30,2016,1432 Longwood Loop,Tampa,FL,Gunshot,Hillsborough County Sheriff's Office,No
+2016740,Michael Thompson Jr,38,Male,Black,September,2,2016,900 Harlan Ave,St Louis,MO,Gunshot,St Louis Police Department,Firearm
+2016744,Jerome Damon,25,Male,Black,September,3,2016,2100 Pacific Ave,Atlantic City,NJ,Gunshot,Atlantic City Police Department,Firearm
+2016749,Moses Ruben,36,Male,Black,September,5,2016,1700 N Kaufman St,Ennis,TX,Gunshot,Ennis Police Department,Vehicle
+2016756,Robert Brown,55,Male,Black,September,7,2016,500 S Madison St,Albany,GA,Gunshot,Albany Police Department,Unknown
+2016758,Sadiq Idris,25,Male,Black,September,7,2016,Eastern Ave SE and 32nd St SE,Wyoming,MI,Gunshot,Wyoming Police Department,Firearm
+2016763,Gregory Frazier,56,Male,Black,September,9,2016,320 NW 14th St,Pompano Beach,FL,Gunshot,Broward County Sheriff's Office,Disputed
+2016765,Terrence Sterling,31,Male,Black,September,11,2016,M St NW and 3rd St NW,Washington,DC,Gunshot,Washington Metropolitan Police Department,No
+2016766,Markell Bivins,25,Male,Black,September,12,2016,1735 Edgewood Rd NW,Cedar Rapids,IA,Gunshot,Cedar Rapids Police Department,Unknown
+2016769,Tyre King,13,Male,Black,September,14,2016,27 Hoffman Ave,Columbus,OH,Gunshot,Columbus Division of Police,Non-lethal firearm
+2016772,Terrill Thomas,38,Male,Black,April,24,2016,949 N 9th St,Milwaukee,WI,Death in custody,Milwaukee County Sheriff's Office,No
+2016781,Nicholas Glenn,25,Male,Black,September,16,2016,100 S 48th St,Philadelphia,PA,Gunshot,Philadelphia Police Department,Firearm
+2016782,Terence Crutcher,40,Male,Black,September,16,2016,36th St N and Lewis Ave,Tulsa,OK,Gunshot,Tulsa Police Department,No
+2016787,Dahir Adan,22,Male,Black,September,17,2016,4101 Division St,St Cloud,MN,Gunshot,Avon Police Department,Knife
+2016796,Keith Scott,43,Male,Black,September,20,2016,9400 Lexington Cir,Charlotte,NC,Gunshot,Charlotte-Mecklenburg Police Department,Disputed
+2016801,Oddis Colvin Jr,33,Male,Black,September,23,2016,Old Court Rd,Pikesville,MD,Gunshot,Baltimore County Police Department,Unknown
+2016808,Tawon Boyd,21,Male,Black,September,17,2016,Akin Cir,Middle River,MD,Death in custody,Baltimore County Police Department,No
+2016809,Alfred Olango,30,Male,Black,September,27,2016,800 Broadway,El Cajon,CA,Gunshot,El Cajon Police Department,No
